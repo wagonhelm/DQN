@@ -1,2 +1,3 @@
 # DQN
-Work in progress...
+Work in progress:
+<img src="network.png">
